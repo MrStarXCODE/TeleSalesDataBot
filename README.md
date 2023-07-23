@@ -33,7 +33,7 @@ pip install python-telegram-bot pandas openpyxl
 
 ## Usage
 
-Please note that this bot is currently configured to only accept input from the user with ID 2020220. This can be adjusted in the code if desired.
+Please note that this bot is currently configured to only accept input from the user with ID. This can be adjusted in the code if desired.
 
 Also, remember to always keep your bot token secret and never share it with anyone you do not trust. Anyone with your bot token can control your bot.
 
